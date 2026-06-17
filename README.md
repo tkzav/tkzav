@@ -41,7 +41,6 @@ currently working with **python**, **discord.js v14**, **SQLite** — open to fr
 
 - **website:** [tkzav.dev](https://tkzav.dev)  
 - **telegram:** [@tak1zavaa](https://t.me/tak1zavaa)  
-- **status:** open to discord bot commissions and backend collaborations
 
 ---
 
