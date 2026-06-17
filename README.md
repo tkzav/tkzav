@@ -47,12 +47,6 @@ currently working with **python**, **discord.js v14**, **SQLite** — open to fr
 
 <div align="center">
 
-[![views](https://komarev.com/ghpvc/?username=tkzav&color=ffffff&style=flat-square&label=profile+views)](https://github.com/tkzav)
-&nbsp;·&nbsp;
-**[tkzav.dev](https://tkzav.dev)**
-&nbsp;·&nbsp;
-**[telegram](https://t.me/tak1zavaa)**
-
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer)](https://tkzav.dev)
 
 </div>
